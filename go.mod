@@ -16,7 +16,7 @@ require (
 	github.com/abbot/go-http-auth v0.4.0
 	github.com/anacrolix/dms v1.2.0
 	github.com/atotto/clipboard v0.1.2
-	github.com/aws/aws-sdk-go v1.37.3
+	github.com/aws/aws-sdk-go v1.38.21
 	github.com/billziss-gh/cgofuse v1.5.0
 	github.com/buengese/sgzip v0.1.1
 	github.com/calebcase/tmpfile v1.0.2 // indirect
